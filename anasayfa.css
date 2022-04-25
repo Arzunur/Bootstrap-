@@ -1,0 +1,36 @@
+body{
+    padding-top: 50px;
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    background-color: black;
+}
+.hakkimizda{
+
+   color:paleturquoise;
+}
+.cizgi{
+    border:none;
+    border-top: 3px solid paleturquoise;
+}
+.hak{
+    background-color: black;
+}
+.crd img:hover{
+    opacity: 0.8;
+}
+.crd{
+    background-color: black;
+    color: palevioletred;
+}
+.ekp{
+ background-color:black;
+}
+.figure:hover  { /*resmin üzerine geldiğimizde opak olmasını istiyorsak :hover özelliği kullanılır. */
+    opacity: 0.8;
+}
+.container{
+    color: aliceblue;
+}
